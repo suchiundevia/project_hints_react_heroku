@@ -1,0 +1,34 @@
+[
+  {
+    "model": "course_app.enrollment",
+    "pk": 1,
+    "fields": {
+      "course": 2,
+      "learner": 15
+    }
+  },
+  {
+    "model": "course_app.enrollment",
+    "pk": 2,
+    "fields": {
+      "course": 1,
+      "learner": 5
+    }
+  },
+  {
+    "model": "course_app.enrollment",
+    "pk": 3,
+    "fields": {
+      "course": 2,
+      "learner": 17
+    }
+  },
+  {
+    "model": "course_app.enrollment",
+    "pk": 4,
+    "fields": {
+      "course": 3,
+      "learner": 7
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 1,
+    "fields": {
+      "time": "09:00:00",
+      "date": "2020-11-10T00:00:00Z",
+      "booked": false,
+      "user": 11
+    }
+  },
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 2,
+    "fields": {
+      "time": "10:00:00",
+      "date": "2020-11-11T00:00:00Z",
+      "booked": false,
+      "user": 13
+    }
+  },
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 3,
+    "fields": {
+      "time": "10:00:00",
+      "date": "2020-09-24T00:00:00Z",
+      "booked": false,
+      "user": 5
+    }
+  },
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 4,
+    "fields": {
+      "time": "12:00:00",
+      "date": "2020-09-26T00:00:00Z",
+      "booked": true,
+      "user": 8
+    }
+  },
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 5,
+    "fields": {
+      "time": "03:00:00",
+      "date": "2020-10-15T00:00:00Z",
+      "booked": true,
+      "user": 19
+    }
+  },
+  {
+    "model": "discussion_app.timeslot",
+    "pk": 6,
+    "fields": {
+      "time": "14:00:00",
+      "date": "2020-11-17T00:00:00Z",
+      "booked": false,
+      "user": 21
+    }
+  }
+]

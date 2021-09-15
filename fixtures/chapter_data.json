@@ -1,0 +1,90 @@
+[
+  {
+    "model": "course_app.chapter",
+    "pk": 1,
+    "fields": {
+      "chapter_title": "Install and Setup Python",
+      "chapter_description": "In this Python Beginner Tutorial, we will start with the basics of how to install and setup Python for Mac and Windows.",
+      "chapter_resource_link": "https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2&t=0s&ab_channel=CoreySchafer",
+      "chapter_sequence": 1,
+      "course": 1
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 2,
+    "fields": {
+      "chapter_title": "Working with Textual Data",
+      "chapter_description": "We will be going over different ways to format strings, and also a lot of useful string methods. Let's get started.",
+      "chapter_resource_link": "https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3&t=0s&ab_channel=CoreySchafer",
+      "chapter_sequence": 2,
+      "course": 1
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 3,
+    "fields": {
+      "chapter_title": "Development Environment",
+      "chapter_description": "Setting up a Python Development Environment in Atom",
+      "chapter_resource_link": "https://www.youtube.com/watch?v=DjEuROpsvp4&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=11&ab_channel=CoreySchafer",
+      "chapter_sequence": 3,
+      "course": 1
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 4,
+    "fields": {
+      "chapter_title": "Villa Savoye",
+      "chapter_description": "3D Model Villa Savoye",
+      "chapter_resource_link": "https://www.youtube.com/playlist?list=PL1n-0H6b0FkWiumwbogDXiOGwy2_621gx",
+      "chapter_sequence": 1,
+      "course": 2
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 5,
+    "fields": {
+      "chapter_title": "Pasta",
+      "chapter_description": "Pasta is the Italian designation or name given to a type of starchy noodle or dumpling food or dish typically made from grain flour, commonly wheat, m",
+      "chapter_resource_link": "https://www.youtube.com/watch?v=khkU2rsUn9g&list=PLz3-p2q6vFYW0Wj5GOXLR1tg5EJ3UrJi4&index=2&t=0s&ab_channel=Epicurious",
+      "chapter_sequence": 1,
+      "course": 3
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 6,
+    "fields": {
+      "chapter_title": "How to Make a perfect",
+      "chapter_description": "Molecular mixology is the process of creating cocktails using the equipment and techniques of molecular gastronomy.",
+      "chapter_resource_link": "https://www.youtube.com/watch?v=cQDKW9oThuQ&list=PLz3-p2q6vFYWco66yB9P62CRlvTNVzwHd&ab_channel=Epicurious",
+      "chapter_sequence": 1,
+      "course": 4
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 7,
+    "fields": {
+      "chapter_title": "Robotics Tutorials for Beginners",
+      "chapter_description": "This Video Series will be for beginners and Kids who are getting started with Robotics.",
+      "chapter_resource_link": "https://www.youtube.com/playlist?list=PL4g1oAdmuCfqmYvURLzVFkMMUI7839biN",
+      "chapter_sequence": 1,
+      "course": 5
+    }
+  },
+  {
+    "model": "course_app.chapter",
+    "pk": 8,
+    "fields": {
+      "chapter_title": "Digital Sketching for Architecture",
+      "chapter_description": "Sketching is important for architects. However, sketching digitally is a modern alternative to the classic pencil and paper. These videos will show yo",
+      "chapter_resource_link": "https://www.youtube.com/playlist?list=PLuJj3iQpiK3vQOqElxb7QB-MAJxWbfxp2",
+      "chapter_sequence": 1,
+      "course": 6
+    }
+  }
+]

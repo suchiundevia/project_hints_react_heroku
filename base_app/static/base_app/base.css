@@ -1,0 +1,173 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+}
+
+ul {
+    margin: 0;
+}
+
+.dropdown-menu {
+    left: 78% !important;
+    right: auto !important;
+    text-align: center !important;
+    transform: translate(-78%, 0) !important;
+}
+
+.bg-steel {
+    background-color: #003366;
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+}
+
+.content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #AAAABB;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    -webkit-animation: shadow-drop-2-center 0.4s linear both;
+    animation: shadow-drop-2-center 0.4s linear both;
+}
+
+.article-title {
+    color: #444444;
+}
+
+a.article-title:hover {
+    color: #003366;
+    text-decoration: none;
+}
+
+.article-content {
+    white-space: pre-line;
+}
+
+.article-img {
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
+}
+
+.article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #AAAABB;
+}
+
+.article-metadata a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+.account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+
+.account-heading {
+    font-size: 2.5rem;
+}
+
+/* GOOGLE LOGIN BUTTON */
+#googleBtn {
+    display: inline-block;
+    background: url('../login_images/google.png') transparent 10px 20% no-repeat;
+    color: dimgray;
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    border: thin solid #888;
+    box-shadow: 1px 1px 1px grey;
+    white-space: nowrap;
+    text-align: right;
+    font-size: 20px;
+    vertical-align: middle;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#googleBtn:hover {
+    cursor: pointer;
+}
+
+/* FACEBOOK LOGIN BUTTON */
+#facebookBtn {
+    display: inline-block;
+    background: url('../login_images/facebook.png');
+    background-position: center;
+    color: dimgray;
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    border: thin solid #888;
+    box-shadow: 1px 1px 1px grey;
+    white-space: nowrap;
+    text-align: right;
+    font-size: 20px;
+    vertical-align: middle;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#facebookBtn:hover {
+    cursor: pointer;
+}
+
+@-webkit-keyframes shadow-drop-2-center {
+    0% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    100% {
+        -webkit-transform: translateZ(50px);
+        transform: translateZ(50px);
+        -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    }
+}
+
+@keyframes shadow-drop-2-center {
+    0% {
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    100% {
+        -webkit-transform: translateZ(50px);
+        transform: translateZ(50px);
+        -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+        box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    }
+}

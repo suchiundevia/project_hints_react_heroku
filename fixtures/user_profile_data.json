@@ -1,0 +1,233 @@
+[
+  {
+    "model": "account_app.userprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "image": "default.jpg",
+      "about": "adminuser",
+      "qualification": null,
+      "experience": null
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "image": "pink.jpg",
+      "about": "testuser01",
+      "qualification": "Bachelor of Arts (Honours)",
+      "experience": "Content writer\nDiplomat\nGraduate archaeologist\nJournalist\nMarketing associate\nPolicy adviser"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "image": "blue.jpg",
+      "about": "testuser02",
+      "qualification": "Bachelor in Optometry",
+      "experience": "Registered optometrist"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "image": "orange.jpg",
+      "about": "testuser03",
+      "qualification": "Bachelor in Health Sciences",
+      "experience": "Business development manager\nCommunity addictions counsellor\nHealth economist\nHealth promoter\nHealth protection officer\nHealth services manager\nPolicy analyst\nPopulation nutrition specialist"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "image": "purple.jpg",
+      "about": "testuser04",
+      "qualification": "Bachelor of Music",
+      "experience": "Arranger/composer\nArts administrator/manager/director\nConductor\nMusic director\nMusic journalist\nPerformer\nRadio/television/digital media/recording producer\nSound engineer"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "image": "red.jpg",
+      "about": "testuser05",
+      "qualification": "Bachelor of Fine Arts",
+      "experience": "Art Director\nArtist\nCreative Project Lead\nCreative Strategist\nEducator\nFilmmaker\nVisual Designer\nWrite"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "image": "yellow.jpg",
+      "about": "testuser06",
+      "qualification": "Master of Engineering",
+      "experience": "Analyst\nConsultant engineer\nHardware and software developer\nProject manager\nQuantity surveyor\nResearch and design engineer\nSystems engineer"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 8,
+    "fields": {
+      "user": 8,
+      "image": "green.jpg",
+      "about": "testuser07",
+      "qualification": "Master of Management",
+      "experience": "Account manager\nBusiness analyst\nExport manager\nManagement consultant\nMarket planner\nSales executive\nTrade development director"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 9,
+    "fields": {
+      "user": 9,
+      "image": "black.jpg",
+      "about": "testuser08",
+      "qualification": "Postgraduate Diploma in Engineering",
+      "experience": "Analyst\nConsultant engineer\nHardware and software developer\nProject manager\nQuantity surveyor\nResearch and design engineer\nSystems engineer"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "image": "grey.jpg",
+      "about": "testuser09",
+      "qualification": "Master of Marine Studies",
+      "experience": "Aquaculture technician\nConservation ranger\nEnvironmental consultant\nFishery analyst\nMarine biologist\nMarine technician\nResearcher"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 11,
+    "fields": {
+      "user": 11,
+      "image": "teal.jpg",
+      "about": "testuser10",
+      "qualification": "Master of Urban Planning",
+      "experience": "Professional Urban Planner"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 12,
+    "fields": {
+      "user": 12,
+      "image": "aqua.jpg",
+      "about": "testuser11",
+      "qualification": "Master of Fine Arts",
+      "experience": "Academia\nArt curator\nArt writer or critic\nArtist\nCreative director in an agency\nDesigner\nEducator\nResearcher"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 13,
+    "fields": {
+      "user": 13,
+      "image": "brown.jpg",
+      "about": "testuser12",
+      "qualification": "Bachelor of Architectural Studies",
+      "experience": "Drafter\nDesigner"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 14,
+    "fields": {
+      "user": 14,
+      "image": "beige.jpg",
+      "about": "testuser13",
+      "qualification": "Master of Science",
+      "experience": "Academia and research\nActuarial and business analysis\nBiostatistics and biotechnology\nData science\nEconomic analysis\nFinancial services (banks, investment funds, insurance)"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 15,
+    "fields": {
+      "user": 15,
+      "image": "pale.jpg",
+      "about": "testuser14",
+      "qualification": "Master of Marketing",
+      "experience": "Brand manager\nCommunications adviser\nCorporate consultant\nMarket analyst\nMarketing coordinator or advisor\nPublic relations officer"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 16,
+    "fields": {
+      "user": 16,
+      "image": "lavender.jpg",
+      "about": "testuser15",
+      "qualification": "Bachelor of Science (Honours)",
+      "experience": "Software development (programming, artificial intelligence, robotics)\nStatistical analysis\nSustainability analysis\nTeaching\nTelecommunications industry"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 17,
+    "fields": {
+      "user": 17,
+      "image": "berry.jpg",
+      "about": "testuser16",
+      "qualification": "Master of Architecture (Professional)",
+      "experience": "Registered Architect"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 18,
+    "fields": {
+      "user": 18,
+      "image": "leaf.jpg",
+      "about": "testuser17",
+      "qualification": "Master of Commerce",
+      "experience": "Business policy adviser\nChief financial officer\nCorporate advisor or valuer\nData communications specialist"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 19,
+    "fields": {
+      "user": 19,
+      "image": "forest.jpg",
+      "about": "testuser18",
+      "qualification": "Master of Business Administration",
+      "experience": "Financial manager in a manufacturing, service or consultancy organisation\nMultinational funds manager\nSecurity assessor\nSoftware engineer"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 20,
+    "fields": {
+      "user": 20,
+      "image": "gold.jpg",
+      "about": "testuser19",
+      "qualification": "Bachelor of Nursing",
+      "experience": "Registered Nurse"
+    }
+  },
+  {
+    "model": "account_app.userprofile",
+    "pk": 21,
+    "fields": {
+      "user": 21,
+      "image": "bright.jpg",
+      "about": "testuser20",
+      "qualification": "Bachelor of Law (Honours)",
+      "experience": "Academia – lecturing, research\nGovernment – policy work, resource management, parliamentary drafting\nJudiciary\nLaw reform\nMediation"
+    }
+  }
+]

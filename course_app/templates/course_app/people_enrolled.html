@@ -1,0 +1,14 @@
+{% extends 'base_app/base.html' %}
+{% block content %}
+    <div class="content-section">
+        <h2>Members Interested</h2>
+        <div class="form-group">
+            <p class="article-content">{{ count }}</p>
+        </div>
+        <div class="border-top pt-3">
+            <small class="text-muted">
+                <a class="ml-2" href="{% url 'home' %}">Return to Homepage</a>
+            </small>
+        </div>
+    </div>
+{% endblock content %}

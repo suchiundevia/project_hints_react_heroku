@@ -1,0 +1,92 @@
+[
+  {
+    "model": "course_app.course",
+    "pk": 1,
+    "fields": {
+      "course_title": "Python",
+      "course_subject": "Programming Language",
+      "course_description": "In these Python Beginner Tutorials, we will be learning the fundamentals of Python programming from the ground up. We will be learning how to: install/setup Python on Mac and Windows, work with basic data types, write conditionals, write for/while loops, write functions, import modules, and explore the standard library.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 4,
+      "categories": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "course_app.course",
+    "pk": 2,
+    "fields": {
+      "course_title": "Villa Savoye",
+      "course_subject": "Villa Savoye in Revit Tutorial",
+      "course_description": "Villa Savoye is a modernist villa in Poissy, on the outskirts of Paris, France. It was designed by the Swiss architects Le Corbusier and his cousin, Pierre Jeanneret and built between 1928 and 1931 using reinforced concrete.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 8,
+      "categories": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "course_app.course",
+    "pk": 3,
+    "fields": {
+      "course_title": "Italian-ish",
+      "course_subject": "Italian Dishes",
+      "course_description": "Learn the basics of Italian cooking in Italian-Ish. These step-by-step tutorial you'll learn how to put a twist on and make delicious, quick-and-easy versions of classic Italian-American dishes.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 20,
+      "categories": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "course_app.course",
+    "pk": 4,
+    "fields": {
+      "course_title": "Molecular Mixology",
+      "course_subject": "The art of mixing drinks",
+      "course_description": "Mixologist Eben Freeman, of Tailor restaurant in New York City, discusses how modern progressive cooking techniques (molecular gastronomy) have influenced the cocktail world.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 11,
+      "categories": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "course_app.course",
+    "pk": 5,
+    "fields": {
+      "course_title": "Robotics for Beginners",
+      "course_subject": "Best Robotics Tutorials for Beginners",
+      "course_description": "Beginners Guide on Robotics - Best Tutorial for Beginners for Getting Started with Robotics.\nRobotics for Beginners and Kids - Learn How to Make a Robot, Different Parts of a Robot.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 11,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "course_app.course",
+    "pk": 6,
+    "fields": {
+      "course_title": "Sketching",
+      "course_subject": "Digital Sketching For Architects",
+      "course_description": "Sketching is important for architects. However, sketching digitally is a modern alternative to the classic pencil and paper. These videos will show you how to utilize your digital tools to revolutionize your practice.",
+      "course_price": 0,
+      "course_post_date": "2020-09-15T02:58:52Z",
+      "course_author": 11,
+      "categories": [
+        2
+      ]
+    }
+  }
+]

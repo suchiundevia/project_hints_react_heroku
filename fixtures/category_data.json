@@ -1,0 +1,66 @@
+[
+  {
+    "model": "course_app.category",
+    "pk": 1,
+    "fields": {
+      "category_name": "Computer Science",
+      "category_description": "The study of the principles and use of computers."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 2,
+    "fields": {
+      "category_name": "Architecture",
+      "category_description": "The art or practice of designing and constructing buildings."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 3,
+    "fields": {
+      "category_name": "Culinary",
+      "category_description": "The art of cooking."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 4,
+    "fields": {
+      "category_name": "Mixology",
+      "category_description": "The art of making mixed drinks."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 5,
+    "fields": {
+      "category_name": "Robotics",
+      "category_description": "The branch of technology that deals with the design, construction, operation, and application of robots."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 6,
+    "fields": {
+      "category_name": "Journalism",
+      "category_description": "Journalism is unbiased production and distribution of reports on current or past events based on facts and supported with proofs or evidences."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 7,
+    "fields": {
+      "category_name": "Music",
+      "category_description": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion."
+    }
+  },
+  {
+    "model": "course_app.category",
+    "pk": 8,
+    "fields": {
+      "category_name": "Art",
+      "category_description": "The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture."
+    }
+  }
+]

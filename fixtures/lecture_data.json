@@ -1,0 +1,387 @@
+[
+  {
+    "model": "course_app.lecture",
+    "pk": 1,
+    "fields": {
+      "lecture_title": "Installation and Setup",
+      "lecture_description": "Python Tutorial for Beginners 1: Install and Setup for Mac and Windows 15:29",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_1_-_Install_and_Setup_for_Mac_and_Windows.mp4",
+      "lecture_sequence": 1,
+      "chapter": 1
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 2,
+    "fields": {
+      "lecture_title": "Working with Textual Data",
+      "lecture_description": "We will be going over different ways to format strings, and also a lot of useful string methods. Let's get started.",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_2_-_Strings_-_Working_with_Textual_Data.mp4",
+      "lecture_sequence": 1,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 3,
+    "fields": {
+      "lecture_title": "Working with Numeric Data",
+      "lecture_description": "We will be learning how to perform basic arithmetic, as well as how to compare numeric values. Let's get started.",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_3_-_Integers_and_Floats_-_Working_with_Numeric_Data.mp4",
+      "lecture_sequence": 2,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 4,
+    "fields": {
+      "lecture_title": "Lists, Tuples, and Sets",
+      "lecture_description": "In this Python Beginner Tutorial, we will begin learning about Lists, Tuples, and Sets in Python. Lists and Tuples allow us to work with sequential da",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_4_-_Lists_Tuples_and_Sets.mp4",
+      "lecture_sequence": 3,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 5,
+    "fields": {
+      "lecture_title": "Working with Key-Value Pairs",
+      "lecture_description": "Dictionaries allow us to work with key-value pairs in Python. We will go over dictionary methods, how to add and remove values, and also how to loop t",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_5_-_Dictionaries_-_Working_with_Key-Value_Pairs.mp4",
+      "lecture_sequence": 4,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 6,
+    "fields": {
+      "lecture_title": "Conditionals and Booleans - If, Else, and Elif Statements",
+      "lecture_description": "In this Python Beginner Tutorial, we will begin learning about if, elif, and else conditionals in Python. We will also be learning about Booleans and",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_6_-_Conditionals_and_Booleans_-_If_Else_and_A6NmoKV.mp4",
+      "lecture_sequence": 5,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 7,
+    "fields": {
+      "lecture_title": "Loops and Iterations - For/While Loops",
+      "lecture_description": "In this Python Beginner Tutorial, we will begin learning about Loops and Iterations. Specifically, we will be looking at the for/while loops. We will",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_7_-_Loops_and_Iterations_-_For_While_Loops.mp4",
+      "lecture_sequence": 6,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 8,
+    "fields": {
+      "lecture_title": "Functions",
+      "lecture_description": "In this Python Beginner Tutorial, we will begin learning how to write functions. Functions are one of the most important things to learn in Python Pro",
+      "lecture_video": "lecture_videos/Python_Tutorial_for_Beginners_8_-_Functions.mp4",
+      "lecture_sequence": 7,
+      "chapter": 2
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 9,
+    "fields": {
+      "lecture_title": "Sublime Text",
+      "lecture_description": "Setting up a Python Development Environment in Sublime Text",
+      "lecture_video": "lecture_videos/Setting_up_a_Python_Development_Environment_in_Sublime_Text.mp4",
+      "lecture_sequence": 1,
+      "chapter": 3
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 10,
+    "fields": {
+      "lecture_title": "Sublime Text",
+      "lecture_description": "Setting up a Python Development Environment in Sublime Text",
+      "lecture_video": "lecture_videos/Setting_up_a_Python_Development_Environment_in_Sublime_Text.mp4",
+      "lecture_sequence": 1,
+      "chapter": 3
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 11,
+    "fields": {
+      "lecture_title": "Atom",
+      "lecture_description": "Setting up a Python Development Environment in Atom",
+      "lecture_video": "lecture_videos/Setting_up_a_Python_Development_Environment_in_Atom.mp4",
+      "lecture_sequence": 2,
+      "chapter": 3
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 12,
+    "fields": {
+      "lecture_title": "Eclipse",
+      "lecture_description": "Setting up a Python Development Environment in Eclipse",
+      "lecture_video": "lecture_videos/Setting_up_a_Python_Development_Environment_in_Eclipse.mp4",
+      "lecture_sequence": 3,
+      "chapter": 3
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 13,
+    "fields": {
+      "lecture_title": "Part 1",
+      "lecture_description": "Le Corbusier's Villa Savoye in Revit Complete Tutorial * Part 1 *",
+      "lecture_video": "lecture_videos/Le_Corbusiers_Villa_Savoye_in_Revit_Complete_Tutorial___Part_1_.mp4",
+      "lecture_sequence": 1,
+      "chapter": 4
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 14,
+    "fields": {
+      "lecture_title": "Part 2",
+      "lecture_description": "Le Corbusier's Villa Savoye in Revit Complete Tutorial * Part 2 *",
+      "lecture_video": "lecture_videos/Le_Corbusiers_Villa_Savoye_in_Revit_Complete_Tutorial___Part_2_.mp4",
+      "lecture_sequence": 2,
+      "chapter": 4
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 15,
+    "fields": {
+      "lecture_title": "Part 3",
+      "lecture_description": "Le Corbusier's Villa Savoye in Revit Complete Tutorial * Part 3 *",
+      "lecture_video": "lecture_videos/Le_Corbusiers_Villa_Savoye_in_Revit_Complete_Tutorial___Part_3_.mp4",
+      "lecture_sequence": 3,
+      "chapter": 4
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 16,
+    "fields": {
+      "lecture_title": "Part 4",
+      "lecture_description": "Le Corbusier's Villa Savoye in Revit Complete Tutorial * Part 4 *",
+      "lecture_video": "lecture_videos/Le_Corbusiers_Villa_Savoye_in_Revit_Complete_Tutorial___Part_4_.mp4",
+      "lecture_sequence": 4,
+      "chapter": 4
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 17,
+    "fields": {
+      "lecture_title": "Part 5",
+      "lecture_description": "Le Corbusier's Villa Savoye in Revit Complete Tutorial * Part 5 *",
+      "lecture_video": "lecture_videos/Le_Corbusiers_Villa_Savoye_in_Revit_Complete_Tutorial___Part_5_.mp4",
+      "lecture_sequence": 5,
+      "chapter": 4
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 18,
+    "fields": {
+      "lecture_title": "Pesto Pasta",
+      "lecture_description": "The Trick to Making Perfect, Healthy Pesto Pasta",
+      "lecture_video": "lecture_videos/The_Trick_to_Making_Perfect_Healthy_Pesto_Pasta___Italian-ish___Epicurious.mp4",
+      "lecture_sequence": 1,
+      "chapter": 5
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 19,
+    "fields": {
+      "lecture_title": "Creamy Carbonara",
+      "lecture_description": "Never Mess Up Easy, Creamy Carbonara Again",
+      "lecture_video": "lecture_videos/Never_Mess_Up_Easy_Creamy_Carbonara_Again___Italian-ish___Epicurious.mp4",
+      "lecture_sequence": 2,
+      "chapter": 5
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 20,
+    "fields": {
+      "lecture_title": "Shanghai Rose",
+      "lecture_description": "How to Make a Shanghai Rose Drink",
+      "lecture_video": "lecture_videos/How_to_Make_a_Shanghai_Rose_Drink.mp4",
+      "lecture_sequence": 1,
+      "chapter": 6
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 21,
+    "fields": {
+      "lecture_title": "Persephone",
+      "lecture_description": "How to Make a Persephone Drink",
+      "lecture_video": "lecture_videos/How_to_Make_a_Persephone_Drink.mp4",
+      "lecture_sequence": 2,
+      "chapter": 6
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 22,
+    "fields": {
+      "lecture_title": "Azteca",
+      "lecture_description": "How to Make an Azteca Drink",
+      "lecture_video": "lecture_videos/How_to_Make_an_Azteca_Drink.mp4",
+      "lecture_sequence": 3,
+      "chapter": 6
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 23,
+    "fields": {
+      "lecture_title": "Lucky Devil",
+      "lecture_description": "How to Make a Lucky Devil Drink",
+      "lecture_video": "lecture_videos/How_to_Make_a_Lucky_Devil_Drink.mp4",
+      "lecture_sequence": 4,
+      "chapter": 6
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 24,
+    "fields": {
+      "lecture_title": "Night Flower",
+      "lecture_description": "How to Make a Night Flower Drink",
+      "lecture_video": "lecture_videos/How_to_Make_a_Night_Flower_Drink.mp4",
+      "lecture_sequence": 5,
+      "chapter": 6
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 25,
+    "fields": {
+      "lecture_title": "Arduino Robotics Beginners Guide",
+      "lecture_description": "An Introduction to Arduino Robotics for Beginners and Kids. In this Arduino Robotics video, I will explain everything you need to know about Robotics,",
+      "lecture_video": "lecture_videos/Arduino_Robotics_Tutorial_for_Beginner___Introduction_to_Arduino_Robotics.mp4",
+      "lecture_sequence": 1,
+      "chapter": 7
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 26,
+    "fields": {
+      "lecture_title": "Robotics for Kids",
+      "lecture_description": "Robotics for Kids - How to Build a Robot for Kids? Introduction to Robotics for Kids and Beginners.",
+      "lecture_video": "lecture_videos/Robotics_for_Kids___Beginners_Robotics___How_to_Build_a_Robot_for_Kids.mp4",
+      "lecture_sequence": 2,
+      "chapter": 7
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 27,
+    "fields": {
+      "lecture_title": "Arduino Home Automation using WiFi",
+      "lecture_description": "In this Arduino Home Automation using WiFi, I will show you how to make a simple DIY Arduino Smart Home System that can control electronic devices usi",
+      "lecture_video": "lecture_videos/IoT_based_Home_Automation_using_Arduino_and_WiFi.mp4",
+      "lecture_sequence": 3,
+      "chapter": 7
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 28,
+    "fields": {
+      "lecture_title": "How to Make Robot",
+      "lecture_description": "Everything you need to know about Sensors - Different types of Sensors, Connecting sensors to Arduino and Sensors in DIY Robots for you to get started",
+      "lecture_video": "lecture_videos/Types_of_Sensors____Everything_you_need_to_know_about_Sensor_and_its_Working.mp4",
+      "lecture_sequence": 4,
+      "chapter": 7
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 29,
+    "fields": {
+      "lecture_title": "How to Build a Robot",
+      "lecture_description": "How to Build a Robot for Beginners, Different Parts of a Robot.",
+      "lecture_video": "lecture_videos/How_to_Build_a_Robot_How_to_Make_a_Robot_Robotics_for_Beginners.mp4",
+      "lecture_sequence": 5,
+      "chapter": 7
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 30,
+    "fields": {
+      "lecture_title": "Do you really need an iPad as an architect",
+      "lecture_description": "Do you really need an iPad as an architect, an intern or student? See if any of the four use cases I came up with match yours. Having always sketched",
+      "lecture_video": "lecture_videos/iPad_for_Architects._Do_you_really_need_one.mp4",
+      "lecture_sequence": 1,
+      "chapter": 8
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 31,
+    "fields": {
+      "lecture_title": "Sketching in Isolation",
+      "lecture_description": "Feeling the pressure to make the most of your time in isolation to learn new skills + be productive? If you haven’t quite lived up to your own lofty e",
+      "lecture_video": "lecture_videos/Sketching_in_Isolation_-_Work_From_Home_Skill_Building.mp4",
+      "lecture_sequence": 2,
+      "chapter": 8
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 32,
+    "fields": {
+      "lecture_title": "Intro to Digital Sketching for Architects",
+      "lecture_description": "In this overview, I'll go over how I use the Wacom Cintiq 27QHD with Photoshop during the architectural design process.  In future videos, I'll go ove",
+      "lecture_video": "lecture_videos/Intro_to_Digital_Sketching_for_Architects.mp4",
+      "lecture_sequence": 2,
+      "chapter": 8
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 33,
+    "fields": {
+      "lecture_title": "Basic Digital Sketching in Architecture",
+      "lecture_description": "OU Graphics has changed to Upstairs! The channel is still managed by the same people, we're just improving the identity.",
+      "lecture_video": "lecture_videos/Basic_Digital_Sketching_in_Architecture.mp4",
+      "lecture_sequence": 4,
+      "chapter": 8
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 34,
+    "fields": {
+      "lecture_title": "Improve your CAD Drawings",
+      "lecture_description": "Improve the quality, clarity and graphics of your CAD drawings with this step-by-step tutorial. As I take the plan sketches for the Gallery House proj",
+      "lecture_video": "lecture_videos/Improve_Your_CAD_Drawings_START_TO_FINISH_tutorial__template.mp4",
+      "lecture_sequence": 5,
+      "chapter": 8
+    }
+  },
+  {
+    "model": "course_app.lecture",
+    "pk": 35,
+    "fields": {
+      "lecture_title": "Architectural Drawing Tutorial",
+      "lecture_description": "In this architectural drawing tutorial I'll walk you through the exact settings, line weights, pen styles and layers I use to develop architectural dr",
+      "lecture_video": "lecture_videos/Architectural_Drawing_Tutorial_My_process__settings.mp4",
+      "lecture_sequence": 6,
+      "chapter": 8
+    }
+  }
+]

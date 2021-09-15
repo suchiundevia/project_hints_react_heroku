@@ -1,0 +1,26 @@
+{% extends 'base_app/base.html' %}
+{% block content %}
+    <div class="content-section">
+        <h2>Course Detail</h2>
+        <article class="media content-section">
+            <img class="rounded-circle article-img" src="{{ object.course_author.userprofile.image.url }}">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <a class="mr-2"
+                       href="{% url 'user-course' object.course_author.username %}">{{ object.course_author }}</a>
+                    <small class="text-muted">{{ object.course_post_date|date:"F d, Y" }}</small>
+                </div>
+                <h2 class="article-title">{{ object.course_title }}</h2>
+                <p class="article-content">{{ object.course_description }}</p>
+                <a class="btn btn-outline-dark btn-sm mt-1 mb-1" href="{% url 'chapter-detail' object.id %}">View
+                    Chapters</a>
+                <a class="btn btn-outline-dark btn-sm mt-1 mb-1"
+                   href="{% url 'enroll' object.id %}">Enroll</a>
+                {% if course.course_author == user %}
+                    <a class="btn btn-danger-dark btn-sm mt-1 mb-1"
+                       href="{% url 'manage-courses' object.course_author.username %}">Manage Courses</a>
+                {% endif %}
+            </div>
+        </article>
+    </div>
+{% endblock content %}

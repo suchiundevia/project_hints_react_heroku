@@ -1,0 +1,42 @@
+[
+  {
+    "model": "course_app.enrollmentnotification",
+    "pk": 1,
+    "fields": {
+      "recipient": 15,
+      "message": "You have been enrolled in Villa Savoye",
+      "notification_date": "2020-09-20T03:57:30.183Z",
+      "enrollment": 1
+    }
+  },
+  {
+    "model": "course_app.enrollmentnotification",
+    "pk": 2,
+    "fields": {
+      "recipient": 5,
+      "message": "You have been enrolled in Robotics for Beginners",
+      "notification_date": "2020-09-20T03:57:35.171Z",
+      "enrollment": 2
+    }
+  },
+  {
+    "model": "course_app.enrollmentnotification",
+    "pk": 3,
+    "fields": {
+      "recipient": 17,
+      "message": "You have been enrolled in Robotics for Beginners",
+      "notification_date": "2020-09-20T03:57:35.171Z",
+      "enrollment": 3
+    }
+  },
+  {
+    "model": "course_app.enrollmentnotification",
+    "pk": 4,
+    "fields": {
+      "recipient": 7,
+      "message": "You have been enrolled in Robotics for Beginners",
+      "notification_date": "2020-09-20T03:57:35.171Z",
+      "enrollment": 4
+    }
+  }
+]

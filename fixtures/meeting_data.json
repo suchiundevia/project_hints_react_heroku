@@ -1,0 +1,25 @@
+[
+  {
+    "model": "discussion_app.meeting",
+    "pk": 1,
+    "fields": {
+      "meeting_title": "Robotics",
+      "meeting_status": "Planned",
+      "meeting_description": "Discussion on home automation",
+      "time_slot": 5,
+      "learner": 16
+    }
+  },
+  {
+    "model": "discussion_app.meeting",
+    "pk": 2,
+    "fields": {
+      "meeting_title": "Modernist Architecture",
+      "meeting_status": "Planned",
+      "meeting_description": "Discussion on Le Corbusier's life work.",
+      "time_slot": 4,
+      "learner": 3
+    }
+  }
+
+]

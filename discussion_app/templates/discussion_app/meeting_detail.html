@@ -1,0 +1,21 @@
+{% extends 'base_app/base.html' %}
+{% block content %}
+    {% for meeting in meetings %}
+        <h2>Meeting Details</h2>
+        <article class="media content-section">
+            <div class="media-body">
+                <h2>
+                    <a class="article-content">{{ meeting.meeting_title }}</a>
+                </h2>
+                <p class="article-content">{{ meeting.meeting_status }}</p>
+                <p class="article-content">{{ meeting.meeting_description }}</p>
+                <small class="text-muted">
+                    <p class="article-content">Meeting with: {{ meeting.time_slot.user }}</p>
+                    <p class="article-content">Meeting Date: {{ meeting.time_slot.date|date:"F d, Y"  }}</p>
+                    <p class="article-content">Meeting Time: {{ meeting.time_slot.time }}</p>
+                </small>
+                <a class="btn btn-outline-dark btn-sm mt-1 mb-1" href="{% url 'home' %}">Back to HomePage</a>
+            </div>
+        </article>
+    {% endfor %}
+{% endblock content %}

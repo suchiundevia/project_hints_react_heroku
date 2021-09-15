@@ -1,0 +1,27 @@
+{% extends 'base_app/base.html' %}
+{% block content %}
+    <article class="media content-section">
+        <div class="row">
+            {% for course in courses %}
+                {% for category in course.categories.all %}
+                    {% for lecture in lectures %}
+                        {% if lecture.chapter.course.course_title == course.course_title %}
+                            <div class="col-md-8">
+                                <iframe src="{{ lecture.lecture_video.url }}" width="500" height="400"
+                                        frameborder="0" allowfullscreen>
+                                </iframe>
+                            </div>
+                            <div class="col-md-4">
+                                <a class="account-heading"
+                                   href="{% url 'course-detail' lecture.chapter.course.id %}">{{ lecture.chapter.course.course_title }}</a><br>
+                                <a class="border-bottom mb-4"
+                                   href="{% url 'user-course' lecture.chapter.course.course_author.username %}">{{ lecture.chapter.course.course_author }}</a>
+                                <p>Lecture: {{ lecture.lecture_title }}</p>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </article>
+{% endblock %}

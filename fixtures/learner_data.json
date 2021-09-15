@@ -1,0 +1,149 @@
+[
+  {
+    "model": "account_app.learner",
+    "pk": 1,
+    "fields": {
+      "user": 1
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 2,
+    "fields": {
+      "user": 2
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 3,
+    "fields": {
+      "user": 3
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 4,
+    "fields": {
+      "user": 4
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 5,
+    "fields": {
+      "user": 5
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 6,
+    "fields": {
+      "user": 6
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 7,
+    "fields": {
+      "user": 7
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 8,
+    "fields": {
+      "user": 8
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 9,
+    "fields": {
+      "user": 9
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 10,
+    "fields": {
+      "user": 10
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 11,
+    "fields": {
+      "user": 11
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 12,
+    "fields": {
+      "user": 12
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 13,
+    "fields": {
+      "user": 13
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 14,
+    "fields": {
+      "user": 14
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 15,
+    "fields": {
+      "user": 15
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 16,
+    "fields": {
+      "user": 16
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 17,
+    "fields": {
+      "user": 17
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 18,
+    "fields": {
+      "user": 18
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 19,
+    "fields": {
+      "user": 19
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 20,
+    "fields": {
+      "user": 20
+    }
+  },
+  {
+    "model": "account_app.learner",
+    "pk": 21,
+    "fields": {
+      "user": 21
+    }
+  }
+]

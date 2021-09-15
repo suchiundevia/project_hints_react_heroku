@@ -1,0 +1,31 @@
+{% extends 'base_app/base.html' %}
+{% block content %}
+    <article class="media content-section">
+        {% for chapter in chapters %}
+            <div class="media-body">
+                <div class="article-metadata">
+                    <h2>
+                        <a class="article-content">{{ chapter.chapter_title }}</a>
+                    </h2>
+                    <p class="article-content">{{ chapter.chapter_description }}</p>
+                    <div class="border-top pt-3">
+                        <small class="text-muted"><p class="article-content">Reference Link:
+                            <br> {{ chapter.chapter_resource_link }}</p>
+                            <p class="article-content">Chapter Sequence: {{ chapter.chapter_sequence }}</p>
+                        </small>
+                    </div>
+                    <div>
+                        <a class="btn btn-outline-dark btn-sm mt-1 mb-1"
+                           href="{% url 'manage-lectures' chapter.id %}">Manage
+                            Lectures</a>
+                        <a class="btn btn-outline-dark btn-sm mt-1 mb-1"
+                           href="{% url 'lecture-create' chapter.id %}">Add
+                            Lectures</a>
+                        <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'course-delete' chapter.id %}">Delete
+                            Chapter</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </article>
+{% endblock content %}
